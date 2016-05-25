@@ -1,0 +1,8 @@
+Download for Git software (Git Client):
+
+https://git-scm.com/download/win
+
+
+Steps to use Git:
+1. Create own account in Gits
+2. Create new repository
